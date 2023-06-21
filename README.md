@@ -1,45 +1,34 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
 # NomedoProjeto
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Algoritmos Dividir e conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0014447  |  André Corrêa da Silva |
+| 20/0030469  |  Felipe Candido de Moura |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resoluções de questões de juizes online (leetcode, SPOJ, OJ), foram quatro questões resolvidas no total.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Em cada pasta de questões possui seu enunciado, código e print da submissão no juiz online.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+É necessário apenas um compilador C++ para rodar os códigos.
+
+## Uso
+Para se utilizar os codigos, deve-se compilar eles com o g++ com as seguintes flags:
+    
+    g++ nome_arquivo.cpp -o nome_arquivo -O2 -Wall
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Questões muito interessantes e com temas divertidos.
 
+## Link da gravação
 
+[video de apresentação](https://unbbr-my.sharepoint.com/:v:/g/personal/200014447_aluno_unb_br/EQhk65kJ9hJFvlKfoR7lazMBY5Rc4uTYKC5aPfC3v_y5Ng?e=a2Pm5H)
 
 
