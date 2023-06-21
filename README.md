@@ -29,6 +29,6 @@ Questões muito interessantes e com temas divertidos.
 
 ## Link da gravação
 
-[video de apresentação](https://unbbr-my.sharepoint.com/:v:/g/personal/200014447_aluno_unb_br/EQhk65kJ9hJFvlKfoR7lazMBY5Rc4uTYKC5aPfC3v_y5Ng?e=a2Pm5H)
+[video de apresentação](https://unbbr-my.sharepoint.com/:v:/g/personal/200030469_aluno_unb_br/Ee65zZ1V8PRFlw-XOKPo_xMBtDbpnj7iJqVcYj7dVB3Ubg)
 
 
