@@ -29,11 +29,9 @@ Questões muito interessantes e com temas divertidos.
 
 ## Link da gravação
 
-
 Para a vizualização do vídeo, baixe todas as partes contidas na pasta "Vídeo", e extraia todas para o mesmo diretório.
 
 [Vídeo de Apresentação](Vídeo/)
-=======
 
 
 
